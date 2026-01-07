@@ -1,4 +1,4 @@
-const API_BASE_URL = "http://127.0.0.1:8000";
+const API_BASE_URL = "https://ashwin-sangokar-lecture-voice-to-notes-backend.hf.space";
 
 export async function processLecture(file) {
   const formData = new FormData();
