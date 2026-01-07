@@ -88,13 +88,14 @@ frontend/
 ## Live Demo
 
 Frontend:
-https://lecture-voice-to-notes-generator.vercel.app
+https://lecture-voice-to-notes-generator-nu.vercel.app
 
 Backend:
 Hosted on Hugging Face Spaces (FastAPI + Whisper + BART)
 
 Note:
 The first request may take longer due to model initialization on free-tier infrastructure.
+
 
 
 
