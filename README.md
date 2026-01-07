@@ -85,4 +85,16 @@ frontend/
 - Silent / empty audio handled gracefully
 - Short lectures flagged as insufficient for summarization
 
+## Live Demo
+
+Frontend:
+https://lecture-voice-to-notes-generator.vercel.app
+
+Backend:
+Hosted on Hugging Face Spaces (FastAPI + Whisper + BART)
+
+Note:
+The first request may take longer due to model initialization on free-tier infrastructure.
+
+
 
